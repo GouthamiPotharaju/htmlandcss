@@ -1,0 +1,98 @@
+.articles-page {
+    background-color: #225db0;
+    height: 100vh;
+    width: 100vw;
+    text-align: left;
+    padding: 28px;
+}
+
+.articles-page-title {
+    font-family: "roboto";
+    color: #ffffff;
+    font-size: 24px;
+
+}
+
+.articles-page-description {
+    font-family: "roboto";
+    color: #ffffff;
+    font-size: 14px;
+}
+
+.articles-page-card {
+    height: 76px;
+    width: 120px;
+    border-radius: 8px;
+    background-color: #ffffff;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+
+.image {
+    height: 30px;
+
+}
+
+.name {
+    color: #1f2933;
+    font-family: "roboto";
+    font-size: 12px;
+    padding: 8px;
+    font-weight: 500;
+}
+
+.technology-page {
+    background-color: #225db0;
+
+}
+
+.technology-page-card {
+    border-radius: 10px;
+    position: relative;
+    z-index: 10;
+    background-size: cover;
+    margin: 20px;
+
+
+
+}
+
+.text-container {
+    padding: 20px;
+}
+
+.sub-title {
+    font-family: "roboto";
+    color: #ffffff;
+    font-size: 20px;
+
+}
+
+.topics {
+    padding: 2px;
+    font-family: "roboto";
+    color: #ffffff;
+    font-size: 12px;
+    margin: 25px;
+
+
+}
+
+.list-items {
+    padding: 8px;
+    position: relative;
+    z-index: 1;
+}
+
+.button {
+    font-family: "roboto";
+    color: #ffffff;
+    border-width: 1px;
+    height: 50px;
+    width: 100px;
+    background-color: #225db0;
+    font-size: 8px;
+    border-color: #ffffff;
+    text-align: center;
+}
